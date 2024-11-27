@@ -1,0 +1,19 @@
+#baja{
+    background-color: #31ab21;
+    
+}
+#media{
+   background-color: #e6ce23;
+}
+#alta{
+   background-color: #a81b11;
+}
+.form-check{
+    width: 50px;
+    margin: 20px 60px;
+    position: relative;
+}
+
+.busqueda{
+    height: 2rem;
+}

@@ -1,0 +1,40 @@
+.descripcion{
+    font-style: italic !important;
+    color: #727073;
+    width: 100% !important;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+    
+}
+
+.descripcion.expandido {
+    white-space: normal; 
+    overflow: visible;
+}
+.card-body{
+    width: 100%;
+    height: 100%;
+    
+}
+.card{
+    width: 13rem !important;
+    
+}
+.baja{
+    color: green;
+}
+.media{
+    color:yellow;
+}
+.alta{
+    color: red;
+}
+.card-title{
+    height: 2rem !important;
+    margin-top: 1rem !important;
+    
+}
+.bi{
+    margin-right: 0.5rem;
+}

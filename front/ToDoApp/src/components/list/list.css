@@ -1,0 +1,43 @@
+
+
+#eliminar:hover{
+    background-color: red;
+}
+#check:hover{
+    background-color: green;
+}
+
+.descripcionp{
+    font-style: italic !important;
+    color: #727073;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+    width: 10rem !important;
+    
+    
+}
+.descontainer{
+    width: 10rem;
+    height: 100%;
+}
+.descripcionp.expandido {
+    white-space: normal !important; 
+    overflow: visible !important;
+    word-wrap: break-word !important;
+}
+button.btn{
+    border: 0;
+}
+.baja{
+    color: green;
+}
+.alta{
+    color: red;
+}
+.media{
+    color: yellow;
+}
+.bi{
+    margin-left: 0.5rem;
+}
